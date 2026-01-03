@@ -188,7 +188,7 @@
 
     <div class="main-container">
         <div id="landing" class="postcard">
-            <p class="intro-text">The Celebration of</p>
+            <p class="intro-text">The Wedding of</p>
             <h1>Muhannad & Waad</h1>
             <div class="venue-line">The St. Regis • New Capital, Cairo</div>
             <button class="btn-main" style="max-width: 220px;" onclick="openRSVP()">RSVP</button>
